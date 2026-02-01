@@ -1449,8 +1449,8 @@ class Main:
                                             "X-Epic-Correlation-ID": "UE4-0cb999094c593037703e67a2364dad7a-63523E0D4DA6FA14E96DC9A5AC137A03-3E1FA7274351413FF9E430829D1920FC",
                                             "User-Agent": "UELauncher/16.7.0-34134031+++Portal+Release-Live Windows/10.0.19045.1.256.64bit",
                                             "Content-Type": "application/x-www-form-urlencoded",
-                                            "Authorization": "basic MzRhMDJjZjhmNDQxNGUyOWIxNTkyMTg3NmRhMzZmOWE6ZGFhZmJjY2M3Mzc3NDUwMzlkZmZlNTNkOTRmYzc2Y2Y=",  # Replace this with the actual encoded credentials if necessary
-                                            "Accept-Encoding": "gzip, deflate"
+                                            "Authorization": "basic LP4WMSGxy6gSQrzWQ4DN8gDft8KuBpW8wvNiNjczZmU6NTBfVoNhyiBzrWXRi9erWH1d8BdpFNoB7dtyMmNkNjI=",  # Replace this with the actual encoded credentials if necessary
+                                            "Accept-Encoding": "gzip, deflate" LP4WMSGxy6gSQrzWQ4DN8gDft8KuBpW8wvNiNjczZmU6NTBfVoNhyiBzrWXRi9erWH1d8BdpFNoB7dtyMmNkNjI=
                                         }
                                         while True:
                                             try:
